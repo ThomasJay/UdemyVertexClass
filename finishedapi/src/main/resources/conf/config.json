@@ -1,0 +1,10 @@
+{
+   "http.port" : 8080,
+   "mongodb.host":"127.0.0.1",
+   "mongodb.port":27017,
+   "mongodb.databasename":"MongoTest",
+   "mongodb.username":"admin",
+   "mongodb.password" : "password",
+   "mongodb.authSource" : "MongoTest"
+   
+}
